@@ -1,4 +1,4 @@
-# &#128508; Desafío - Introducción a Componentes Web y Vue Js 	&#128509;
+# &#128509; Desafío - Introducción a Componentes Web y Vue Js
 En este desafío validaremos nuestros conocimientos de interpolación de variables en
 templates de Vue Js. Para lograrlo, necesitarás crear una aplicación con Vue CLI y descargar
 el material de apoyo del desafío.
